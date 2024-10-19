@@ -1,0 +1,20 @@
+{
+    "name": "khedr/elframework",
+    "description": "framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Elframework\\": "framework/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AbdELrahman",
+            "email": "abdelrahmankhed123@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "version": "1.0"
+}
