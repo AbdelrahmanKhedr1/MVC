@@ -1,0 +1,35 @@
+2024-10-24 13:05:57 - Error this route "site/about/hh" not found in C:\xampp\htdocs\MVC\elframework\ilIluminates\Router\Router.php on line 118 
+2024-10-24 13:06:06 - Error this route "site/about/hh" not found in C:\xampp\htdocs\MVC\elframework\ilIluminates\Router\Router.php on line 118 
+2024-10-24 13:06:06 - Error this route "site/about/hh" not found in C:\xampp\htdocs\MVC\elframework\ilIluminates\Router\Router.php on line 118 
+2024-10-24 13:06:07 - Error this route "site/about/hh" not found in C:\xampp\htdocs\MVC\elframework\ilIluminates\Router\Router.php on line 118 
+2024-10-26 15:25:48 - Error no required methods in C:\xampp\htdocs\MVC\elframework\ilIluminates\Http\Validations\Validation.php on line 25 
+2024-10-26 15:27:52 - Error no required method in C:\xampp\htdocs\MVC\elframework\ilIluminates\Http\Validations\Validation.php on line 25 
+2024-10-26 15:27:53 - Error no required method in C:\xampp\htdocs\MVC\elframework\ilIluminates\Http\Validations\Validation.php on line 25 
+2024-10-26 15:27:53 - Error no required method in C:\xampp\htdocs\MVC\elframework\ilIluminates\Http\Validations\Validation.php on line 25 
+2024-10-26 15:27:53 - Error no required method in C:\xampp\htdocs\MVC\elframework\ilIluminates\Http\Validations\Validation.php on line 25 
+2024-10-26 15:27:53 - Error no required method in C:\xampp\htdocs\MVC\elframework\ilIluminates\Http\Validations\Validation.php on line 25 
+2024-10-26 15:31:14 - Error no integer method in C:\xampp\htdocs\MVC\elframework\ilIluminates\Http\Validations\Validation.php on line 21 
+2024-10-26 15:31:15 - Error no integer method in C:\xampp\htdocs\MVC\elframework\ilIluminates\Http\Validations\Validation.php on line 21 
+2024-10-27 23:14:02 - Error no in:ahmed,mohamed method in C:\xampp\htdocs\MVC\elframework\ilIluminates\Http\Validations\Validation.php on line 29 
+2024-10-28 15:38:37 - Error this route "send/data" not found in C:\xampp\htdocs\MVC\elframework\ilIluminates\Router\Router.php on line 120 
+2024-10-28 19:41:26 - Error this route "mage/671fb39f2dd481.937310442411.png" not found in C:\xampp\htdocs\MVC\elframework\ilIluminates\Router\Router.php on line 120 
+2024-10-28 19:41:39 - Error this route "storage/image/671fb39f2dd481.937310442411.png" not found in C:\xampp\htdocs\MVC\elframework\ilIluminates\Router\Router.php on line 120 
+2024-10-28 20:26:32 - Error this route "storage/image/671fb39f2dd481.937310442411.png" not found in C:\xampp\htdocs\MVC\elframework\ilIluminates\Router\Router.php on line 120 
+2024-10-28 20:26:33 - Error this route "mage/671fb39f2dd481.937310442411.png" not found in C:\xampp\htdocs\MVC\elframework\ilIluminates\Router\Router.php on line 120 
+2024-10-28 22:20:26 - Error CSRF Token is invalid in C:\xampp\htdocs\MVC\elframework\ilIluminates\Middleware\CSRFToken.php on line 14 
+2024-10-28 22:20:26 - Error this route "send/data" not found in C:\xampp\htdocs\MVC\elframework\ilIluminates\Router\Router.php on line 120 
+2024-10-28 22:20:30 - Error CSRF Token is invalid in C:\xampp\htdocs\MVC\elframework\ilIluminates\Middleware\CSRFToken.php on line 14 
+2024-10-28 22:20:30 - Error this route "send/data" not found in C:\xampp\htdocs\MVC\elframework\ilIluminates\Router\Router.php on line 120 
+2024-10-28 22:20:50 - Error CSRF Token is invalid in C:\xampp\htdocs\MVC\elframework\ilIluminates\Middleware\CSRFToken.php on line 14 
+2024-10-28 22:20:50 - Error this route "send/data" not found in C:\xampp\htdocs\MVC\elframework\ilIluminates\Router\Router.php on line 120 
+2024-10-28 22:20:51 - Error CSRF Token is invalid in C:\xampp\htdocs\MVC\elframework\ilIluminates\Middleware\CSRFToken.php on line 14 
+2024-10-28 22:20:51 - Error this route "send/data" not found in C:\xampp\htdocs\MVC\elframework\ilIluminates\Router\Router.php on line 120 
+2024-10-28 22:23:01 - Error CSRF Token is invalid in C:\xampp\htdocs\MVC\elframework\ilIluminates\Middleware\CSRFToken.php on line 15 
+2024-10-28 22:23:01 - Error this route "send/data" not found in C:\xampp\htdocs\MVC\elframework\ilIluminates\Router\Router.php on line 120 
+2024-10-28 22:23:02 - Error CSRF Token is invalid in C:\xampp\htdocs\MVC\elframework\ilIluminates\Middleware\CSRFToken.php on line 15 
+2024-10-28 22:23:02 - Error this route "send/data" not found in C:\xampp\htdocs\MVC\elframework\ilIluminates\Router\Router.php on line 120 
+2024-10-28 22:23:03 - Error CSRF Token is invalid in C:\xampp\htdocs\MVC\elframework\ilIluminates\Middleware\CSRFToken.php on line 15 
+2024-10-28 22:23:03 - Error this route "send/data" not found in C:\xampp\htdocs\MVC\elframework\ilIluminates\Router\Router.php on line 120 
+2024-10-28 22:23:24 - Error CSRF Token is invalid in C:\xampp\htdocs\MVC\elframework\ilIluminates\Middleware\CSRFToken.php on line 15 
+2024-10-28 22:23:24 - Error this route "send/data" not found in C:\xampp\htdocs\MVC\elframework\ilIluminates\Router\Router.php on line 120 
+2024-10-29 14:23:52 - Error SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\MVC\elframework\ilIluminates\Database\Types\MySQLConnection.php on line 35 

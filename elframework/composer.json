@@ -5,8 +5,13 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Elframework\\": "framework/"
-        }
+            "Elframework\\": "framework/",
+            "Iliuminates\\": "ilIluminates/",
+            "Contracts\\": "Contracts/"
+        },
+        "files": [
+            "helpers/elframework_helpers.php"
+        ]
     },
     "authors": [
         {
